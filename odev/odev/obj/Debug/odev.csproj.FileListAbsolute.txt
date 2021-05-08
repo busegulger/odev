@@ -1,0 +1,10 @@
+C:\Users\buseg\source\repos\odev\odev\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\buseg\source\repos\odev\odev\obj\Debug\Odev1.Form1.resources
+C:\Users\buseg\source\repos\odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\buseg\source\repos\odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\buseg\source\repos\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\buseg\source\repos\odev\odev\bin\Debug\odev.exe.config
+C:\Users\buseg\source\repos\odev\odev\bin\Debug\odev.exe
+C:\Users\buseg\source\repos\odev\odev\bin\Debug\odev.pdb
+C:\Users\buseg\source\repos\odev\odev\obj\Debug\odev.exe
+C:\Users\buseg\source\repos\odev\odev\obj\Debug\odev.pdb
